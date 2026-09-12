@@ -1,0 +1,9 @@
+# Dataset
+Mobile_Game_Analytics_table.csv
+
+# Power BI backup/template files
+*.pbit
+
+# Windows
+Thumbs.db
+desktop.ini
